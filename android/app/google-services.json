@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "884288732443",
+    "project_id": "pos-flutter-86161",
+    "storage_bucket": "pos-flutter-86161.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884288732443:android:a73b23cdefecefac0767be",
+        "android_client_info": {
+          "package_name": "com.capekngoding.flutter_hyper_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884288732443-l86tu2e48qi68po2ovu4rsen3oij7qqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeZmkI4DSq1QLYvAkEvcmoF3paNB6BJ8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884288732443-l86tu2e48qi68po2ovu4rsen3oij7qqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+{
+    "openai_key": "",
+    "modules": [
+        "login",
+        "register",
+        "main_navigation",
+        "dashboard",
+        "favorite",
+        "profile"
+    ]
+}
