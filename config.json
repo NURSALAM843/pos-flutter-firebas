@@ -7,6 +7,10 @@
         "dashboard",
         "favorite",
         "profile",
-        "edit_profile"
+        "edit_profile",
+        "product",
+        "product_form",
+        "order",
+        "pos"
     ]
 }
