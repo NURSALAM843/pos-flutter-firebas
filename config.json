@@ -6,6 +6,7 @@
         "main_navigation",
         "dashboard",
         "favorite",
-        "profile"
+        "profile",
+        "edit_profile"
     ]
 }

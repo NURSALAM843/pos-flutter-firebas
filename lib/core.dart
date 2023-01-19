@@ -3,8 +3,11 @@ We believe, the class name must be unique.
 If there is a conflicting class name in this file,
 it means you have to rename it to something more unique.
 */
+export 'package:flutter_hyper_ui/data/app_session.dart';
 export 'package:flutter_hyper_ui/module/dashboard/controller/dashboard_controller.dart';
 export 'package:flutter_hyper_ui/module/dashboard/view/dashboard_view.dart';
+export 'package:flutter_hyper_ui/module/edit_profile/controller/edit_profile_controller.dart';
+export 'package:flutter_hyper_ui/module/edit_profile/view/edit_profile_view.dart';
 export 'package:flutter_hyper_ui/module/favorite/controller/favorite_controller.dart';
 export 'package:flutter_hyper_ui/module/favorite/view/favorite_view.dart';
 export 'package:flutter_hyper_ui/module/login/controller/login_controller.dart';
@@ -15,6 +18,7 @@ export 'package:flutter_hyper_ui/module/profile/controller/profile_controller.da
 export 'package:flutter_hyper_ui/module/profile/view/profile_view.dart';
 export 'package:flutter_hyper_ui/module/register/controller/register_controller.dart';
 export 'package:flutter_hyper_ui/module/register/view/register_view.dart';
+export 'package:flutter_hyper_ui/service/user_service.dart';
 export 'package:flutter_hyper_ui/shared/util/firebase/firebase_auth_ext.dart';
 export 'package:flutter_hyper_ui/shared/util/focus_helper/focus_helper.dart';
 export 'package:flutter_hyper_ui/shared/util/input/input.dart';

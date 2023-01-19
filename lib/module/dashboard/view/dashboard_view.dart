@@ -1,3 +1,4 @@
+import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import '../controller/dashboard_controller.dart';
 import 'package:flutter_hyper_ui/core.dart';
@@ -17,12 +18,10 @@ class DashboardView extends StatelessWidget {
           appBar: AppBar(
             title: const Text("Dashboard"),
           ),
-          body: SingleChildScrollView(
-            child: Container(
-              padding: const EdgeInsets.all(10.0),
-              child: Column(
-                children: const [],
-              ),
+          body: Container(
+            padding: const EdgeInsets.all(10.0),
+            child: Column(
+              children: const [],
             ),
           ),
         );
