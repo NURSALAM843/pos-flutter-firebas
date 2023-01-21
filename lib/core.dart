@@ -18,6 +18,8 @@ export 'package:flutter_hyper_ui/module/order/controller/order_controller.dart';
 export 'package:flutter_hyper_ui/module/order/view/order_view.dart';
 export 'package:flutter_hyper_ui/module/pos/controller/pos_controller.dart';
 export 'package:flutter_hyper_ui/module/pos/view/pos_view.dart';
+export 'package:flutter_hyper_ui/module/pos_checkout/controller/pos_checkout_controller.dart';
+export 'package:flutter_hyper_ui/module/pos_checkout/view/pos_checkout_view.dart';
 export 'package:flutter_hyper_ui/module/product/controller/product_controller.dart';
 export 'package:flutter_hyper_ui/module/product/view/product_view.dart';
 export 'package:flutter_hyper_ui/module/product_form/controller/product_form_controller.dart';
